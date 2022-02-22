@@ -1,0 +1,1 @@
+<?php echo '© 2019 Yellow Taxi'; ?>
